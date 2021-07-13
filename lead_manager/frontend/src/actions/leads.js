@@ -9,8 +9,6 @@ async function promiseHandling (response) {
     }
 
 
-    
-
 function handleResponse(response) {
     if (!response.ok) {
         throw response
